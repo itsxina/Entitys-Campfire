@@ -1,6 +1,6 @@
 {
 	"Name": "The Entity's Campfire",
-	"Version": 1733256684,
+	"Version": 1733430225,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3426,12 +3426,12 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				737,
-				738,
 				733,
 				734,
 				735,
-				736
+				736,
+				737,
+				738
 			],
 			"ItemWhitelist": [
 				0,
@@ -3521,3 +3521,4 @@
 			"KillerOfferings": []
 		}
 	]
+}
