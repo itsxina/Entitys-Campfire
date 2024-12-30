@@ -1,6 +1,6 @@
 {
 	"Name": "The Entity's Campfire",
-	"Version": 1733430225,
+	"Version": 1735529985,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1322,6 +1322,7 @@
 			"SurvivorIndvPerkBans": [
 				"10",
 				"20",
+				"38",
 				"54",
 				"58",
 				"64",
@@ -2963,6 +2964,7 @@
 			"SurvivorIndvPerkBans": [
 				"60",
 				"34",
+				"36",
 				"38",
 				"39",
 				"54",
@@ -3426,12 +3428,12 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				737,
+				738,
 				733,
 				734,
 				735,
-				736,
-				737,
-				738
+				736
 			],
 			"ItemWhitelist": [
 				0,
