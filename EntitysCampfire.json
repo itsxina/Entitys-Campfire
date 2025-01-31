@@ -1,6 +1,6 @@
 {
 	"Name": "The Entity's Campfire",
-	"Version": 1735529985,
+	"Version": 1738089121,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -82,6 +82,7 @@
 				"116",
 				"120",
 				"122",
+				"124",
 				"128",
 				"254",
 				"130"
@@ -1023,7 +1024,7 @@
 		{
 			"Name": "The Nightmare",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -3519,8 +3520,3 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
-		}
-	]
-}
