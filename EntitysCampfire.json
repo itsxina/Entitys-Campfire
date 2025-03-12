@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire",
-	"Version": 1741649222,
+	"Version": 1741739550,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2819,3 +2819,4 @@
 			]
 		}
 	]
+}
