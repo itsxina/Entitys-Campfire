@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire",
-	"Version": 1741739550,
+	"Version": 1742942300,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -81,6 +81,7 @@
 				"147",
 				"149",
 				"150",
+				"151",
 				"155",
 				"165",
 				"244",
@@ -198,6 +199,14 @@
 				[
 					"159",
 					"226"
+				],
+				[
+					"170",
+					"264"
+				],
+				[
+					"264",
+					"151"
 				]
 			]
 		},
@@ -1137,7 +1146,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "'Tomie' skin is banned.",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -1154,7 +1163,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
+				"264",
 				"204",
 				"219",
 				"220"
@@ -1170,6 +1179,7 @@
 				"54",
 				"58",
 				"64",
+				"68",
 				"78"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1555,7 +1565,7 @@
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1807,7 +1817,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"151"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -2011,7 +2023,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"151"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
