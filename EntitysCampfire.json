@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire",
-	"Version": 1751254818,
+	"Version": 1751501180,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -256,6 +256,7 @@
 				"96",
 				"102",
 				"109",
+				"121",
 				"124"
 			],
 			"KillerIndvPerkBans": [
