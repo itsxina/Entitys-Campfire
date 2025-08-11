@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire",
-	"Version": 1753642415,
+	"Version": 1754841662,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -111,6 +111,7 @@
 				"151",
 				"278",
 				"205",
+				"208",
 				"284",
 				"209",
 				"211",
@@ -1141,20 +1142,21 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8"
+				"8",
+				"9"
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"163"
+				"163",
+				"215"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -1167,9 +1169,12 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				233,
+				234,
+				235,
+				236,
 				237,
-				238,
-				235
+				238
 			],
 			"ItemWhitelist": [
 				0,
