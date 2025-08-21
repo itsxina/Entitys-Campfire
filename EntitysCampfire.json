@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire",
-	"Version": 1754841662,
+	"Version": 1755734624,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2888,7 +2888,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"39",
 				"61",
@@ -3127,30 +3132,4 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
-			"AddonWhitelist": {
-				"Firecracker": {
-					"Addons": []
-				},
-				"Flashlight": {
-					"Addons": []
-				},
-				"Med-Kit": {
-					"Addons": []
-				},
-				"Toolbox": {
-					"Addons": []
-				},
-				"Key": {
-					"Addons": []
-				},
-				"Map": {
-					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
-		}
-	]
-}
+			"IndividualAddonB
