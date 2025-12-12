@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire: Dead of Winter",
-	"Version": 1762925613,
+	"Version": 1765491211,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -377,6 +377,7 @@
 				"69",
 				"70",
 				"72",
+				"75",
 				"76",
 				"80",
 				"89",
@@ -611,7 +612,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"132"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [
 				4
@@ -773,7 +776,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"15"
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -1144,6 +1147,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"245",
 				"163",
 				"200",
 				"213",
@@ -1286,8 +1290,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Legion",
@@ -2029,7 +2039,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -2042,9 +2052,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"65"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2506,7 +2514,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "",
+			"KillerNotes": "Must run Add-On: Iridescent OSS Report (then one more of playerâs choice)",
 			"IsDisabled": false,
 			"Map": [
 				"34"
@@ -2666,7 +2674,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"11"
 			],
 			"BalanceTiers": [
 				0,
