@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire: Dead of Winter",
-	"Version": 1765491211,
+	"Version": 1766973643,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1964,7 +1964,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"17"
+				"12"
 			],
 			"BalanceTiers": [
 				0,
@@ -2514,10 +2514,10 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "Must run Add-On: Iridescent OSS Report (then one more of playerâs choice)",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"15"
 			],
 			"BalanceTiers": [
 				0,
@@ -2530,17 +2530,12 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"245",
-				"157",
-				"184",
 				"200",
 				"151"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"294",
-				"85",
-				"97",
-				"111"
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -2552,8 +2547,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				698,
-				694,
-				688
+				688,
+				697
 			],
 			"ItemWhitelist": [
 				0,
