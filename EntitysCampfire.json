@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire: Dead of Winter",
-	"Version": 1771209193,
+	"Version": 1772685945,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2293,7 +2293,9 @@
 				"184"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
