@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire: Dead of Winter",
-	"Version": 1774313911,
+	"Version": 1774496576,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1679,7 +1679,7 @@
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"10"
 			],
@@ -1956,7 +1956,7 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"49"
 			],
