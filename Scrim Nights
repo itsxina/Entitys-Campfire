@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire Scrims Final",
-	"Version": 1780633618,
+	"Version": 1782067158,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -105,6 +105,7 @@
 				"299",
 				"178",
 				"180",
+				"310",
 				"185",
 				"186",
 				"265",
@@ -115,9 +116,11 @@
 				"205",
 				"284",
 				"211",
+				"309",
 				"212",
 				"216",
 				"209",
+				"311",
 				"225",
 				"226",
 				"227",
@@ -1745,7 +1748,6 @@
 			"IndividualAddonBans": [
 				410,
 				412,
-				415,
 				416
 			],
 			"ItemWhitelist": [
@@ -3228,6 +3230,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
