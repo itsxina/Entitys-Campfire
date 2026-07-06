@@ -1,6 +1,6 @@
 {
 	"Name": "World Cup",
-	"Version": 1783326538,
+	"Version": 1783378547,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -526,6 +526,14 @@
 				[
 					"170",
 					"151"
+				],
+				[
+					"170",
+					"210"
+				],
+				[
+					"181",
+					"220"
 				]
 			],
 			"SurvivorIndvPerkBans": [
@@ -1163,8 +1171,8 @@
 					"220"
 				],
 				[
-					"181",
-					"220"
+					"170",
+					"210"
 				]
 			],
 			"SurvivorIndvPerkBans": [
