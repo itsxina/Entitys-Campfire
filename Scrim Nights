@@ -1,6 +1,6 @@
 {
 	"Name": "Entity's Campfire Scrims Final",
-	"Version": 1782067158,
+	"Version": 1784340009,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -114,6 +114,7 @@
 				"195",
 				"199",
 				"205",
+				"208",
 				"284",
 				"211",
 				"309",
@@ -1535,6 +1536,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"246",
+				"27",
 				"261"
 			],
 			"SurvivorComboPerkBans": [],
